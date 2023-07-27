@@ -1,5 +1,5 @@
 <?php
 
-echo "Hi, PHP code deployed from GitHub";
+echo "Hi, PHP Program deployed from GitHub repository to EC2 Instance!!";
 
 ?>
